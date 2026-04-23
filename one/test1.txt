@@ -1,0 +1,6 @@
+This is my text file for learning Git and GitHub
+add more content to file 1
+Adding content on the 3rd line of the code  
+
+adding more content for bug fixing 
+ 
